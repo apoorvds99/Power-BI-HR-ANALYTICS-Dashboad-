@@ -21,3 +21,6 @@ Interactive dashboard analyzing employee attrition, performance, and workforce t
 - HR_Dashboard.pbix
 - Dataset.xlsx
 - Dashboard.pdf
+
+## Author
+Apoorv Singh  
